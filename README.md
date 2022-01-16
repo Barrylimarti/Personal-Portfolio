@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Personal-Portfolio
-My portfolio website made with React.js. Do visit to know me better :) 
-=======
-<<<<<<< HEAD
 # Personal-Portfolio
 My portfolio website made with React.js. Do visit to know me better :) 
 =======
