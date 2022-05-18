@@ -1,6 +1,6 @@
 # Personal-Portfolio
 My portfolio website made with React.js. Do visit to know me better :) 
-https://personal-portfolio-19.herokuapp.com/
+https://personal-portfolio-19.netlify.app/
 =======
 # Getting Started with Create React App
 
